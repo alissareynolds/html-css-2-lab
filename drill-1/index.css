@@ -1,0 +1,48 @@
+.box1 {
+  background-color: rgba(68, 68, 68);
+  display:block;
+  height: 173px;
+  width: 3344px;
+  border: red 1px solid;
+
+}
+
+.leftPanel {
+    background-color: rgba(216, 216, 216);
+    display:inline-block;
+    height: 1800px;
+    width: 164px;
+    border: red 1px solid;
+  
+  }
+
+  .middlePanel {
+    background-color: rgb(239,239,239);
+    display:inline-block;
+    height: 1800px;
+    width: 3000px;
+    border: red 1px solid;
+  
+  }
+
+  .midTop {
+    display: block;
+    height: 1716px;
+  }
+
+  .midBottom {
+    background-color: rgb(34, 34, 34);
+    display: block;
+    height: 84px;
+  }
+  
+  .rightPanel {
+    background-color: rgba(216, 216, 216);
+    display:inline-block;
+    width: 164px;
+    height: 1800px;
+
+    border: red 1px solid;
+  
+  }
+
